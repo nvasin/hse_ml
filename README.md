@@ -64,7 +64,7 @@ Car2,2018,30000,Diesel,Dealer,Automatic,First Owner,19.0,1498,108.5,5
 name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,prediction
 Car1,2015,50000,Petrol,Individual,Manual,First Owner,21.5,1197,83.1,5,350000.0
 Car2,2018,30000,Diesel,Dealer,Automatic,First Owner,19.0,1498,108.5,5,450000.0
-``
+```
 
 
 
